@@ -1,0 +1,30 @@
+C:\Users\PC\source\repos\Lab05.GUI\Lab05.BUS\bin\Debug\Lab05.BUS.dll.config
+C:\Users\PC\source\repos\Lab05.GUI\Lab05.BUS\bin\Debug\Lab05.BUS.dll
+C:\Users\PC\source\repos\Lab05.GUI\Lab05.BUS\bin\Debug\Lab05.BUS.pdb
+C:\Users\PC\source\repos\Lab05.GUI\Lab05.BUS\bin\Debug\EntityFramework.dll
+C:\Users\PC\source\repos\Lab05.GUI\Lab05.BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\source\repos\Lab05.GUI\Lab05.BUS\bin\Debug\Lab05.DAL.dll
+C:\Users\PC\source\repos\Lab05.GUI\Lab05.BUS\bin\Debug\Lab05.DAL.pdb
+C:\Users\PC\source\repos\Lab05.GUI\Lab05.BUS\bin\Debug\Lab05.DAL.dll.config
+C:\Users\PC\source\repos\Lab05.GUI\Lab05.BUS\bin\Debug\EntityFramework.xml
+C:\Users\PC\source\repos\Lab05.GUI\Lab05.BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\source\repos\Lab05.GUI\Lab05.BUS\obj\Debug\Lab05.BUS.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Lab05.GUI\Lab05.BUS\obj\Debug\Lab05.BUS.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lab05.GUI\Lab05.BUS\obj\Debug\Lab05.BUS.csproj.CopyComplete
+C:\Users\PC\source\repos\Lab05.GUI\Lab05.BUS\obj\Debug\Lab05.BUS.dll
+C:\Users\PC\source\repos\Lab05.GUI\Lab05.BUS\obj\Debug\Lab05.BUS.pdb
+C:\Users\QUOCDUY\OneDrive\Máy tính\lab5\Lab05\Lab05.BUS\bin\Debug\Lab05.BUS.dll.config
+C:\Users\QUOCDUY\OneDrive\Máy tính\lab5\Lab05\Lab05.BUS\bin\Debug\Lab05.BUS.dll
+C:\Users\QUOCDUY\OneDrive\Máy tính\lab5\Lab05\Lab05.BUS\bin\Debug\Lab05.BUS.pdb
+C:\Users\QUOCDUY\OneDrive\Máy tính\lab5\Lab05\Lab05.BUS\bin\Debug\EntityFramework.dll
+C:\Users\QUOCDUY\OneDrive\Máy tính\lab5\Lab05\Lab05.BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\QUOCDUY\OneDrive\Máy tính\lab5\Lab05\Lab05.BUS\bin\Debug\Lab05.DAL.dll
+C:\Users\QUOCDUY\OneDrive\Máy tính\lab5\Lab05\Lab05.BUS\bin\Debug\Lab05.DAL.pdb
+C:\Users\QUOCDUY\OneDrive\Máy tính\lab5\Lab05\Lab05.BUS\bin\Debug\Lab05.DAL.dll.config
+C:\Users\QUOCDUY\OneDrive\Máy tính\lab5\Lab05\Lab05.BUS\bin\Debug\EntityFramework.xml
+C:\Users\QUOCDUY\OneDrive\Máy tính\lab5\Lab05\Lab05.BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\QUOCDUY\OneDrive\Máy tính\lab5\Lab05\Lab05.BUS\obj\Debug\Lab05.BUS.csproj.AssemblyReference.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\lab5\Lab05\Lab05.BUS\obj\Debug\Lab05.BUS.csproj.CoreCompileInputs.cache
+C:\Users\QUOCDUY\OneDrive\Máy tính\lab5\Lab05\Lab05.BUS\obj\Debug\Lab05.BUS.csproj.CopyComplete
+C:\Users\QUOCDUY\OneDrive\Máy tính\lab5\Lab05\Lab05.BUS\obj\Debug\Lab05.BUS.dll
+C:\Users\QUOCDUY\OneDrive\Máy tính\lab5\Lab05\Lab05.BUS\obj\Debug\Lab05.BUS.pdb
